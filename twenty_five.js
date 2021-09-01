@@ -62,7 +62,7 @@ get(arr,prop){
   }
 })
 const users = new IndexArray([
-	{id: 1, name:'First', job:'tt1',age:22},
+	{id: 1, name:'First', job:'tt11',age:22},
 {id: 2, name:'Second', job:'tt2',age:27},
 {id: 3, name:'Third', job:'tt3',age:23},
 {id: 4, name:'Fourth', job:'tt4',age:28},
